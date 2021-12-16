@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "438383338627",
+    "firebase_url": "https://sop-2021-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sop-2021",
+    "storage_bucket": "sop-2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438383338627:android:642e1416d02ed588bae7b6",
+        "android_client_info": {
+          "package_name": "com.antailbaxt3r.lop2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438383338627-i8gvicerhfjarshum1fjagaa5kf8avjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.antailbaxt3r.lop2021",
+            "certificate_hash": "9bad31d007c57a55358e03b2d378ec246c7eeec3"
+          }
+        },
+        {
+          "client_id": "438383338627-lolug89vkcdosgefjhks3v3jtq915ek2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.antailbaxt3r.lop2021",
+            "certificate_hash": "cd7918029ada31e2961003efb43ac7ce288a4854"
+          }
+        },
+        {
+          "client_id": "438383338627-qgo7igv8mtifrfvb9hafbq0d7vdse85e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkOurQ-cc7BX5jRpH_et89bXf_IkdbzQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438383338627-qgo7igv8mtifrfvb9hafbq0d7vdse85e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
